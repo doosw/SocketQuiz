@@ -1,4 +1,4 @@
-# Home
+# WIKI
 ## Project Overview
 This project is a cloud-based quiz game application using Java sockets to implement client-server communication. The server hosts quiz questions, while the client connects to answer them. The objective of this project is to practice network programming by designing client-server communication and implementing a custom protocol.
 
